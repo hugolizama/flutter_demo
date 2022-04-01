@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Peter Schacknow",
+          "title": "Stocks making the biggest moves premarket: Walgreens, Baidu, Novavax and others - CNBC",
+          "description": "These are the stocks posting the largest moves before the bell.",
+          "url": "https://www.cnbc.com/2022/03/31/stocks-making-the-biggest-moves-premarket-walgreens-baidu-novavax-and-others.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106959962-1634151295148-gettyimages-1235405345-BIZ-WALGREENS-SHIELDS-TB.jpeg?v=1647003524&w=1920&h=1080",
+          "publishedAt": "2022-03-31T11:50:58Z",
+          "content": "Check out the companies making headlines before the bell:\r\nWalgreens (WBA) The drug store operator reported an adjusted quarterly profit of $1.59 per share, 19 cents above estimates, with revenue als… [+2420 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Oil Tumbles As Biden Mulls Big Reserves Release; Futures Mixed - Investor's Business Daily",
+          "description": null,
+          "url": "https://news.google.com/__i/rss/rd/articles/CBMiiAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtY3J1ZGUtb2lsLWZhbGxzLWJpZGVuLW11bGxzLWh1Z2Utc3RyYXRlZ2ljLXJlc2VydmVzLXJlbGVhc2Uv0gEA?oc=5",
+          "urlToImage": null,
+          "publishedAt": "2022-03-31T11:22:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Special Reports",
+          "title": "Putin targets enemies at home as his missiles strike Ukraine - Reuters.com",
+          "description": "Since late 2020, Russia has added dozens of Kremlin critics to its register of “foreign agents.” Reuters contacted them to find out how the designation has changed their lives.",
+          "url": "https://www.reuters.com/investigates/special-report/ukraine-crisis-russia-repression/",
+          "urlToImage": "https://www.reuters.com/investigates/special-report/assets/ukraine-crisis-russia-repression/mastheads/share_Russian_Bear4.jpg?v=015908310322",
+          "publishedAt": "2022-03-31T11:00:00Z",
+          "content": "Long before Vladimir Putins invasion of Ukraine and the mass detentions of Russian peace protesters, the Kremlin was already stifling dissent - with choking bureaucracy.\r\nThroughout 2021, the Kremlin… [+13975 chars]"
+      }
+  ]
+}

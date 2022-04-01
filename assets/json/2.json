@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Seán Federico-O'Murchú",
+          "title": "After an 8-year wait, the US men's soccer team will once again compete in a World Cup - CNN",
+          "description": "After an eight-year wait, the US Men's National team secured a spot Wednesday in the 2022 FIFA World Cup, although not in a way the team would have preferred.",
+          "url": "https://www.cnn.com/2022/03/30/sport/us-mens-soccer-world-cup/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220330233654-usa-soccer-03302022-restrcited.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2022-03-31T11:00:00Z",
+          "content": "After an eight-year wait, the US Mens National team secured a spot Wednesday in the 2022 FIFA World Cup, although not in a way the team would have preferred.\r\nIn its 14th and final match of CONCACAF … [+1080 chars]"
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Donald Judd and Paul LeBlanc, CNN",
+          "title": "Biden to mark Transgender Day of Visibility with new measures in support of transgender Americans - CNN",
+          "description": "The Biden administration is marking the International Transgender Day of Visibility on Thursday with a series of measures in support of transgender Americans as they face efforts to curb their rights across the country.",
+          "url": "https://www.cnn.com/2022/03/31/politics/transgender-day-of-visibility-day-biden-administration/index.html",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220329220720-biden-white-house-032922-super-tease.jpg",
+          "publishedAt": "2022-03-31T10:46:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "independent",
+              "name": "Independent"
+          },
+          "author": "Oliver O'Connell",
+          "title": "Biden news – live: US government weighing release of up to 1 million barrels of oil from strategic reserve - The Independent",
+          "description": "Biden new: Latest updates on Russia, Ukraine, Nato, Trump, Hunter Biden",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/biden-news-today-oil-reserves-trump-putin-b2047810.html",
+          "urlToImage": "https://static.independent.co.uk/2022/03/30/22/1388626461.jpg?quality=75&width=1200&auto=webp",
+          "publishedAt": "2022-03-31T10:33:27Z",
+          "content": "President Biden met today with Joey and Paula Reed, the parents of Trevor Reed, who is wrongfully detained in Russia. During their meeting, the President reiterated his commitment to continue to work… [+1093 chars]"
+      }
+  ]
+}

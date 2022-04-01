@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Johana Bhuiyan",
+          "title": "Russia-Ukraine war: what we know on day 36 of the Russian invasion - The Guardian",
+          "description": "Russia and Ukraine will resume peace talks on Friday as west claims Putin has been misled by advisers about failures of his military",
+          "url": "https://amp.theguardian.com/world/2022/mar/31/russia-ukraine-war-what-we-know-on-day-36-of-the-russian-invasion",
+          "urlToImage": null,
+          "publishedAt": "2022-03-31T10:21:00Z",
+          "content": "<li>The Russian defence ministry announced a local ceasefire on Thursday to allow civilians to be evacuated from Ukraines besieged port city of Mariupol, according to Agence France-Presse. A humanita… [+3736 chars]"
+      },
+      {
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "James Marson and Matthew Luxmoore",
+          "title": "Ukrainian Troops Push Forward as Russian Forces Regroup - The Wall Street Journal",
+          "description": "After taking the city of Irpin to the northwest of Kyiv this week, Ukrainian forces are now engaged in heavy fighting in the neighboring towns of Bucha and Hostomel, officials said.",
+          "url": "https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863",
+          "urlToImage": "https://images.wsj.net/im-515653/social",
+          "publishedAt": "2022-03-31T10:17:00Z",
+          "content": "Ukrainian officials said their armed forces are pressing forward against Russian military units around Kyiv, seeking to exploit Moscows efforts to regroup after weeks of heavy losses.\r\nAfter taking t… [+166 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Sam Meredith",
+          "title": "OPEC+ sticks to modest oil output hike as U.S. considers unprecedented release of reserves - CNBC",
+          "description": "The meeting comes more than a month after Russia launched its invasion of Ukraine.",
+          "url": "https://www.cnbc.com/2022/03/31/oil-opec-meets-as-us-considers-massive-release-of-oil-reserves.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107039520-1648719639203-gettyimages-1352431998-if102509_20211110105237270.jpeg?v=1648723180&w=1920&h=1080",
+          "publishedAt": "2022-03-31T10:11:25Z",
+          "content": "Saudi Energy Minister Prince Abdulaziz bin Salman has said OPEC+ will keep politics out of its decision-making process in favor of the \"common good\" of stabilizing energy prices.\r\nOil producer group … [+4599 chars]"
+      }
+  ]
+}

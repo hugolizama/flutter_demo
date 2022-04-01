@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+      {
+          "source": {
+              "id": null,
+              "name": "WATE 6 On Your Side"
+          },
+          "author": "Melanie Vásquez Russell",
+          "title": "Wears Valley wildfire: Crews continue to battle flames despite overnight rain - WATE 6 On Your Side",
+          "description": "Fire, emergency and utilities crews worked overnight in Sevier County as wildfires burned in the area and storms moved in across the region",
+          "url": "https://www.wate.com/news/wears-valley-wildfire/wears-valley-wildfire-crews-continue-to-battle-flames-despite-overnight-rain/",
+          "urlToImage": "https://www.wate.com/wp-content/uploads/sites/42/2022/03/night-time-flames.jpg?w=1280",
+          "publishedAt": "2022-03-31T10:00:29Z",
+          "content": "PIGEON FORGE, Tenn. (WATE) Fire, emergency and utilities crews worked overnight in Sevier County as wildfires burned in the area and storms moved in across the region. A wildfire in the Wears Valley … [+1655 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "SciTechDaily"
+          },
+          "author": null,
+          "title": "Record-Setting NASA Astronaut and Two Cosmonauts Return From International Space Station - SciTechDaily",
+          "description": "After extending the record for the longest single spaceflight in history by an American to 355 days, NASA astronaut Mark Vande Hei returned to Earth on Wednesday, March 30, 2022, along with Roscosmos cosmonauts Anton Shkaplerov and Pyotr Dubrov. The trio depa…",
+          "url": "https://scitechdaily.com/record-setting-nasa-astronaut-and-two-cosmonauts-return-from-international-space-station/",
+          "urlToImage": "https://scitechdaily.com/images/NASA-Astronaut-Mark-Vande-Hei-After-Landing.jpg",
+          "publishedAt": "2022-03-31T09:36:18Z",
+          "content": "NASA astronaut Mark Vande Hei is seen outside the Soyuz MS-19 spacecraft after he landed with Russian cosmonauts Anton Shkaplerov and Pyotr Dubrov in a remote area near the town of Zhezkazgan, Kazakh… [+3705 chars]"
+      },
+      {
+          "source": {
+              "id": "politico",
+              "name": "Politico"
+          },
+          "author": null,
+          "title": "Dem-on-Dem primary in Michigan spikes party's blood pressure - POLITICO",
+          "description": "Rep. Andy Levin passed up what some of his colleagues see as a winnable race, instead challenging Rep. Haley Stevens. And a furor is resulting.",
+          "url": "https://www.politico.com/news/2022/03/31/michigan-drama-primary-levin-stevens-00021866",
+          "urlToImage": "https://static.politico.com/7f/57/57994ed24f4ab52f1b6e9950e251/congress-unions-33543.jpg",
+          "publishedAt": "2022-03-31T08:30:00Z",
+          "content": "With Democrats majority hanging on just a handful of districts, several of them even argued Levins choice could help seal their partys fate come November.\r\nWe need that seat, said Rep. Ann Kuster (D-… [+7746 chars]"
+      }
+  ]
+}
